@@ -6427,8 +6427,7 @@ Solidity deposu, `assembler` alt sistemini Solidity ile paylaşan bir LLL derley
 
 Özel olarak talep edilmedikçe inşa edilmez:
 ```
-$ cmake -DLLL = On ..
-$ cmake - build.
+
 
 ```
 ### [Uyarı]()
